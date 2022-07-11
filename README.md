@@ -3,6 +3,5 @@
 
 
 # Editor
-Guo
-
+阿部
 
