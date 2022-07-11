@@ -3,5 +3,3 @@
 
 
 # Editor
-## Shin Matsushima
-   smatsus
