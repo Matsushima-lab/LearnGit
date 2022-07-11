@@ -3,6 +3,7 @@
 
 
 # Editor
-ここに追加！
+
+takumi saika
 Masatoshi Kobayashi
 Yuma Takeda
