@@ -4,4 +4,6 @@
 
 # Editor
 
-* takumi saika
+takumi saika
+Masatoshi Kobayashi
+Yuma Takeda
