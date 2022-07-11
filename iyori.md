@@ -1,1 +1,2 @@
-iyori
+git clone ~
+github レポジトリをクローンする
