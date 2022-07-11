@@ -3,4 +3,6 @@
 
 
 # Editor
+ここに追加！
+Masatoshi Kobayashi
 Yuma Takeda
