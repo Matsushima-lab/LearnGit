@@ -4,5 +4,5 @@
 
 # Editor
 ここに追加！
-Masatoshi Kabayashi
-
+Masatoshi Kobayashi
+Yuma Takeda
